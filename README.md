@@ -2,6 +2,10 @@
 Basic Fundamentals
 
 <h3> Framework and Library Difference</h3>
+<h6> Reference : "Difference Between Library and Framework".<br>
+                  Nov 17, 2020. https://www.c-sharpcorner.com/. Accessed 30 August 2022.<br>
+                  https://www.c-sharpcorner.com/UploadFile/a85b23/framework-vs-library/
+</h6>
 <img align="center" width="100%" src = "https://user-images.githubusercontent.com/91482888/187289008-ce999a3b-643f-4306-afc2-02a3612b953f.png"/>
 
 <h4>Key Difference and Definition of Library and Framework</h4> 
